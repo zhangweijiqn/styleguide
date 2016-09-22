@@ -45,3 +45,8 @@ for more details.
 [cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
 [emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
 [xml]: https://google.github.io/styleguide/xmlstyle.html
+
+### Installing the google styleguide settings in intellij and eclipse
+Download the eclipse-java-google-style.xml file from the http://code.google.com/p/google-styleguide/ repo.
+Import the settings file by selecting Import:
+  settings --> code style --> java --> manage --> import
